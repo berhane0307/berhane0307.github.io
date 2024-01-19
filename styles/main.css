@@ -27,7 +27,7 @@ header {
   color: gray;
   width: 100%;
   padding: 20px;
-  font-size: 1.5em;
+  font-size: 1em;
   border-radius: 70%;
   background-color: black;
 }
@@ -40,18 +40,7 @@ nav ul li {
   margin-right: 15px;
 }
 
-.image-container {
-  /* display: grid;
-  border: 10px solid gray;
-  padding: 50px;
-  /* background-image: url(../berhane2.jpeg); */
-  /* height: 300vh; */
-  /* background-position: center; */
-  /* background-size: cover;
-  border-radius: 30px;
-  background-repeat: no-repeat;
-  background-position: center; */
-}
+
 .image-profile {
   /* display: grid; */
   width: 700px;
@@ -113,9 +102,8 @@ p {
   margin-block-end: 0.83rem;
   margin-inline-start: 0px;
   margin-inline-end: 0px;
-  font-weight: bold;
-  border-radius: 50%;
-}
+  font-weight:lighter;
+
 
 /* .social-media img {
   display: flex;

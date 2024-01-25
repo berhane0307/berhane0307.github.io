@@ -104,6 +104,16 @@ p {
   font-weight: lighter;
 }
 
+/* javascript dom */
+#example {
+  max-width: 500;
+  height: auto;
+  border: 2px solid #333;
+  margin-top: 20px;
+  margin-bottom: 40px;
+  padding: 1px;
+}
+
 /* .social-media img {
   display: flex;
   margin-right: 10px;

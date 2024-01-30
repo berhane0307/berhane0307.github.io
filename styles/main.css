@@ -40,6 +40,12 @@ nav ul li {
   margin-right: 20px;
 }
 
+button {
+  font: 1em sans-serif;
+  background-color: grey;
+  text-align: center;
+}
+
 .image-profile {
   /* display: grid; */
   width: 700px;
@@ -77,6 +83,29 @@ img {
   padding: 20px;
   background-color: bisque;
 }
+
+/* table */
+
+body {
+  font-family: Arial, sans-serif;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+th,
+td {
+  border: 10px solid black;
+  text-align: center;
+  padding: 8px;
+  border-color: darkgreen;
+  font-weight: bold;
+}
+
+/* table */
 
 body {
   display: grid;

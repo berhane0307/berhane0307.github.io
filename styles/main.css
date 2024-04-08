@@ -17,14 +17,6 @@ body {
   background-position: center -300px;
 }
 
-/* body {
-  font-family: Rubik, 'Trebuchet MS', sans-serif;
-  background-color: #14181a;
-  color: #f1f0e7;
-  line-height: 1.8;
-  font-size: 16px;
-} */
-
 div {
   display: block;
 }
@@ -67,18 +59,15 @@ button {
 }
 
 .image-profile {
-  /* display: grid; */
   width: 700px;
   border: 10px solid gray;
   padding: 0;
-  /* background-image: url(../berhane2.jpeg); */
-  /* height: 300vh; */
-  /* background-position: center; */
   background-size: cover;
   border-radius: 30px;
   background-repeat: no-repeat;
   background-position: center;
 }
+
 .text {
   font-family: 'Times New Roman', Times, serif;
   text-align: left;
@@ -90,8 +79,6 @@ button {
 }
 
 .main {
-  /* margin-left: 20%;
-  margin-right: 50px; */
   margin-top: 70px;
   padding: 2% 2%;
   text-align: justify;
@@ -102,7 +89,6 @@ button {
 
 img {
   display: grid;
-  /* width: 50%; */
   height: auto;
   margin: auto;
   padding: auto;
@@ -164,7 +150,6 @@ p {
   font-weight: lighter;
 }
 
-/* javascript dom */
 #example {
   max-width: 500;
   height: auto;
@@ -174,11 +159,6 @@ p {
   padding: 1px;
 }
 
-/* .social-media img {
-  display: flex;
-  margin-right: 10px;
-  border-radius: 50%;
-} */
 @media (max-width: 768px) {
   .responsive {
     padding: 0px 20px;
@@ -186,8 +166,6 @@ p {
   html .image-profile {
     margin: auto;
     width: 70%;
-    /* background-position-y: -300px; */
-    /* background-position-x: center; */
   }
 }
 
